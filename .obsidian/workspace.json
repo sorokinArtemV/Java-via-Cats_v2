@@ -1,0 +1,376 @@
+{
+  "main": {
+    "id": "bdca1d7c07c69986",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa11b3c2b074587d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d7215c9f696649a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.1a-Запуск Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1a-Запуск Java"
+            }
+          },
+          {
+            "id": "d519b5680413b5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.2. Примитивные типы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2. Примитивные типы"
+            }
+          },
+          {
+            "id": "43cffd64c3ee194f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.3. Reference types и pass-by-value.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3. Reference types и pass-by-value"
+            }
+          },
+          {
+            "id": "8b241d137e6728dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.4. Обёртки, автобоксинг и Integer cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4. Обёртки, автобоксинг и Integer cache"
+            }
+          },
+          {
+            "id": "1310431f6ccee503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.5. == vs equals.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5. == vs equals"
+            }
+          },
+          {
+            "id": "f901cf136a567e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.6. Управление потоком if, switch, циклы, метки.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.6. Управление потоком if, switch, циклы, метки"
+            }
+          },
+          {
+            "id": "a21b9cb2209cb153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.7a. Массивы объект, память, ковариантность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.7a. Массивы объект, память, ковариантность"
+            }
+          },
+          {
+            "id": "d5c12bfa61d4ce0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.7b. Массив ↔ List и три уровня иммутабельности.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.7b. Массив ↔ List и три уровня иммутабельности"
+            }
+          },
+          {
+            "id": "e9ec6a8e6a600e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.5. == vs equals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5. == vs equals"
+            }
+          },
+          {
+            "id": "9a1fbb4a73f120e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Java Fundamentals/1.8b-varargs и передача аргументов (pass-by-value).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.8b-varargs и передача аргументов (pass-by-value)"
+            }
+          },
+          {
+            "id": "735d644e9e63c8b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "7024d4f386e11d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-IntelliJ IDEA + Tooling/2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider)"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "873c6697a59e7360",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f69348fc5356f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1786bb2f4f91ec94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b7344ad04e274b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48257d5b2d88c742",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd76a198ca1d1e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "34daa72f2fd5dead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ff34d284d3ebf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-IntelliJ IDEA + Tooling/2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider)"
+            }
+          },
+          {
+            "id": "266ff68f1f93d6e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-IntelliJ IDEA + Tooling/2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider)"
+            }
+          },
+          {
+            "id": "9e9975b89470ae87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bafc7a4bea735066",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5dc0528803360d20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-IntelliJ IDEA + Tooling/2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7024d4f386e11d8a",
+  "lastOpenFiles": [
+    "Pasted image 20260702182711.png",
+    "Java.md",
+    "02-IntelliJ IDEA + Tooling/2.1-2.5-IntelliJ IDEA + Tooling (переход с Rider).md",
+    "01-Java Fundamentals/1.11. Пакеты и импорты.md",
+    "README.md",
+    "02-IntelliJ IDEA + Tooling",
+    "Pasted image 20260702175158.png",
+    "Pasted image 20260702175018.png",
+    "01-Java Fundamentals/1.10 final -локальные, параметры, поля, классы.md",
+    "Pasted image 20260702170652.png",
+    "Pasted image 20260702103220.png",
+    "Pasted image 20260702170340.png",
+    "Pasted image 20260702170318.png",
+    "01-Java Fundamentals/1.8b-varargs и передача аргументов (pass-by-value).md",
+    "1.9-Область видимости и this.md",
+    "01-Java Fundamentals/1.9-Область видимости и this.md",
+    "java-spring-roadmap.md",
+    "01-Java Fundamentals/1.8a-Сигнатура метода и разрешение перегрузок.md",
+    "Pasted image 20260702163044.png",
+    "01-Java Fundamentals/1.5. == vs equals.md",
+    "01-Java Fundamentals/1.4. Обёртки, автобоксинг и Integer cache.md",
+    "01-Java Fundamentals/1.3. Reference types и pass-by-value.md",
+    "01-Java Fundamentals/1.2. Примитивные типы.md",
+    "01-Java Fundamentals/1.1b-Classpath, JAR и манифест.md",
+    "01-Java Fundamentals/1.1a-Запуск Java.md",
+    "Pasted image 20260702152854.png",
+    "Pasted image 20260702132746.png",
+    "01-Java Fundamentals/1.7b. Массив ↔ List и три уровня иммутабельности.md",
+    "Pasted image 20260702125803.png",
+    "01-Java Fundamentals/1.7a. Массивы объект, память, ковариантность.md",
+    "01-Java Fundamentals/1.6. Управление потоком if, switch, циклы, метки.md",
+    "01-Java Fundamentals"
+  ]
+}
