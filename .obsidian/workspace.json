@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-Concurrency Basics (JMM, threads, synchronization)/23.9-23.12-Локи на разных уровнях и координация через wait-notify.md",
+                "file": "23-Concurrency Basics (JMM, threads, synchronization)/23.13-Когда всё идёт не так- deadlock, livelock, starvation. И ThreadLocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9-23.12-Локи на разных уровнях и координация через wait-notify"
+              "title": "23.13-Когда всё идёт не так- deadlock, livelock, starvation. И ThreadLocal"
             }
           }
         ],
@@ -270,10 +270,14 @@
   },
   "active": "5490d3ec62207f6b",
   "lastOpenFiles": [
+    "Pasted image 20260705081840.png",
+    "Pasted image 20260705081819.png",
+    "Pasted image 20260705081747.png",
+    "Java.md",
+    "23-Concurrency Basics (JMM, threads, synchronization)/23.13-Когда всё идёт не так- deadlock, livelock, starvation. И ThreadLocal.md",
+    "23-Concurrency Basics (JMM, threads, synchronization)/23.9-23.12-Локи на разных уровнях и координация через wait-notify.md",
     "Pasted image 20260704154137.png",
     "Pasted image 20260704154118.png",
-    "Java.md",
-    "23-Concurrency Basics (JMM, threads, synchronization)/23.9-23.12-Локи на разных уровнях и координация через wait-notify.md",
     "23-Concurrency Basics (JMM, threads, synchronization)/23.6-23.8-Volatile и synchronized- инструменты, которые создают happens-before.md",
     "23-Concurrency Basics (JMM, threads, synchronization)/23.5-Java Memory Model (зачем нужна, что описывает).md",
     "Pasted image 20260704153659.png",
@@ -282,10 +286,7 @@
     "Pasted image 20260704153035.png",
     "Pasted image 20260704153012.png",
     "Pasted image 20260704152959.png",
-    "Pasted image 20260704152935.png",
     "23-Concurrency Basics (JMM, threads, synchronization)/23.2-23.4-Жизненный цикл потока и прерывание.md",
-    "Pasted image 20260704152352.png",
-    "Pasted image 20260704152332.png",
     "23-Concurrency Basics (JMM, threads, synchronization)/23.1-Потоки- что это и как их создать.md",
     "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)/24-14-24.15.md",
     "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)/24.13-Виртуальные потоки и структурная конкурентность.md",
@@ -307,7 +308,6 @@
     "01-Java Fundamentals/1.2. Примитивные типы.md",
     "01-Java Fundamentals/1.1b-Classpath, JAR и манифест.md",
     "01-Java Fundamentals/1.1a-Запуск Java.md",
-    "03-Basics of OOP/3.12 (B). this$0 и утечки памяти через inner.md",
     "03-Basics of OOP",
     "02-IntelliJ IDEA + Tooling",
     "01-Java Fundamentals"
