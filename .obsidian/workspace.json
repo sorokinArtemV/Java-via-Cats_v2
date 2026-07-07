@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
-                "mode": "source",
+                "file": "06-Exceptions/6.10–6.11. InterruptedException и антипаттерны обработки.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.7-5.10-Singleton и сериализация- name как идентичность"
+              "title": "6.10–6.11. InterruptedException и антипаттерны обработки"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd76a198ca1d1e79",
@@ -200,6 +201,21 @@
   },
   "active": "891ce8a9e80477f3",
   "lastOpenFiles": [
+    "Pasted image 20260707175630.png",
+    "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
+    "06-Exceptions/6.10–6.11. InterruptedException и антипаттерны обработки.md",
+    "06-Exceptions/6.9. Stack trace- как и когда формируется.md",
+    "Pasted image 20260707173622.png",
+    "Pasted image 20260707173519.png",
+    "06-Exceptions/6.6–6.8-Цепочка причин, дизайн своего исключения и wrap-and-rethrow.md",
+    "Pasted image 20260707165557.png",
+    "Pasted image 20260707165532.png",
+    "06-Exceptions/6.3–6.4. try - catch - finally + детали finally.md",
+    "Pasted image 20260707163609.png",
+    "06-Exceptions/6.1–6.2. Иерархия Throwable + checked vs unchecked.md",
+    "Pasted image 20260707163516.png",
+    "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
+    "06-Exceptions",
     "Pasted image 20260707154141.png",
     "05-Enums/5.6-EnumSet и EnumMap- ordinal как адрес.md",
     "Pasted image 20260707154041.png",
@@ -207,23 +223,14 @@
     "Pasted image 20260707153524.png",
     "05-Enums/5.1-5.3+5.8-Enum как полноценный класс.md",
     "Pasted image 20260707153255.png",
-    "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
     "Java.md",
-    "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
     "05-Enums",
     "04-Inheritance, Interfaces, Polymorphism/4.10-4.12-Запрет наследования и композиция.md",
     "04-Inheritance, Interfaces, Polymorphism/4.9. Casting и instanceof (+ pattern matching).md",
     "04-Inheritance, Interfaces, Polymorphism/4.8-abstract class vs interface (+ скелетная реализация).md",
     "04-Inheritance, Interfaces, Polymorphism/Композиция - это просто поле (is-a - has-a).md",
-    "Pasted image 20260707133836.png",
-    "Pasted image 20260707133238.png",
-    "Pasted image 20260707133221.png",
-    "Pasted image 20260707124156.png",
     "04-Inheritance, Interfaces, Polymorphism/4.8.1-Diamond problem.md",
-    "Pasted image 20260707123954.png",
-    "Pasted image 20260707123656.png",
     "04-Inheritance, Interfaces, Polymorphism/4.7. Методы с телом в интерфейсе- default static  private.md",
-    "Pasted image 20260707123343.png",
     "04-Inheritance, Interfaces, Polymorphism/4.4-4.5-Механика диспатча- vtable, super и что НЕ полиморфно.md",
     "04-Inheritance, Interfaces, Polymorphism/4.6. Интерфейс- контракт и асимметрия наследования.md",
     "04-Inheritance, Interfaces, Polymorphism/4.1-4.3-Наследование, виртуальность и два вида «одинаковых имён».md",
@@ -232,11 +239,6 @@
     "03-Basics of OOP/Анонимный класс Java.md",
     "03-Basics of OOP/Java Hashmap in details.md",
     "03-Basics of OOP/HashMap под капотом (и чем отличается Dictionary).md",
-    "01-Java Fundamentals/1.10 final -локальные, параметры, поля, классы.md",
-    "03-Basics of OOP/3.12 (B). this$0 и утечки памяти через inner.md",
-    "03-Basics of OOP/3.12 (A). Вложенные классы- четыре вида и когда какой.md",
-    "03-Basics of OOP/3.11-Static-члены- поля, методы, блоки и жизненный цикл класса.md",
-    "03-Basics of OOP/3.9.-3.10-Контракт equals и hashCode.md",
     "04-Inheritance, Interfaces, Polymorphism",
     "23-Concurrency Basics (JMM, threads, synchronization)",
     "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)",
