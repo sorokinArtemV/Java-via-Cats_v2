@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Inheritance, Interfaces, Polymorphism/4.10-4.12-Запрет наследования и композиция.md",
-                "mode": "preview",
+                "file": "05-Enums/5.1-5.3+5.8-Enum как полноценный класс.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.10-4.12-Запрет наследования и композиция"
+              "title": "5.1-5.3+5.8-Enum как полноценный класс"
+            }
+          },
+          {
+            "id": "891ce8a9e80477f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.7-5.10-Singleton и сериализация- name как идентичность"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +198,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac9e204d2bd20c99",
+  "active": "891ce8a9e80477f3",
   "lastOpenFiles": [
+    "Pasted image 20260707154141.png",
+    "05-Enums/5.6-EnumSet и EnumMap- ordinal как адрес.md",
+    "Pasted image 20260707154041.png",
+    "05-Enums/5.4-5.5-Enum как носитель поведения.md",
+    "Pasted image 20260707153524.png",
+    "05-Enums/5.1-5.3+5.8-Enum как полноценный класс.md",
+    "Pasted image 20260707153255.png",
+    "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
+    "Java.md",
+    "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
+    "05-Enums",
+    "04-Inheritance, Interfaces, Polymorphism/4.10-4.12-Запрет наследования и композиция.md",
     "04-Inheritance, Interfaces, Polymorphism/4.9. Casting и instanceof (+ pattern matching).md",
     "04-Inheritance, Interfaces, Polymorphism/4.8-abstract class vs interface (+ скелетная реализация).md",
     "04-Inheritance, Interfaces, Polymorphism/Композиция - это просто поле (is-a - has-a).md",
     "Pasted image 20260707133836.png",
-    "04-Inheritance, Interfaces, Polymorphism/4.10-4.12-Запрет наследования и композиция.md",
     "Pasted image 20260707133238.png",
     "Pasted image 20260707133221.png",
-    "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
     "Pasted image 20260707124156.png",
     "04-Inheritance, Interfaces, Polymorphism/4.8.1-Diamond problem.md",
     "Pasted image 20260707123954.png",
@@ -202,10 +227,7 @@
     "04-Inheritance, Interfaces, Polymorphism/4.4-4.5-Механика диспатча- vtable, super и что НЕ полиморфно.md",
     "04-Inheritance, Interfaces, Polymorphism/4.6. Интерфейс- контракт и асимметрия наследования.md",
     "04-Inheritance, Interfaces, Polymorphism/4.1-4.3-Наследование, виртуальность и два вида «одинаковых имён».md",
-    "Pasted image 20260707122703.png",
     "03-Basics of OOP/Java тренажёр «что выведет» — инициализация и переопределение.md",
-    "Pasted image 20260707112941.png",
-    "Pasted image 20260707112914.png",
     "04-Inheritance, Interfaces, Polymorphism/SOLID.md",
     "03-Basics of OOP/Анонимный класс Java.md",
     "03-Basics of OOP/Java Hashmap in details.md",
@@ -215,12 +237,7 @@
     "03-Basics of OOP/3.12 (A). Вложенные классы- четыре вида и когда какой.md",
     "03-Basics of OOP/3.11-Static-члены- поля, методы, блоки и жизненный цикл класса.md",
     "03-Basics of OOP/3.9.-3.10-Контракт equals и hashCode.md",
-    "03-Basics of OOP/3.8.-Object как корень- методы, которые получаешь бесплатно.md",
-    "Java.md",
     "04-Inheritance, Interfaces, Polymorphism",
-    "03-Basics of OOP/3.7-Иммутабельность- как сделать объект, который нельзя сломать.md",
-    "03-Basics of OOP/3.6-Геттеры-сеттеры и почему в Java нет properties.md",
-    "03-Basics of OOP/3.5-Модификаторы доступа- private, package-private, protected, public.md",
     "23-Concurrency Basics (JMM, threads, synchronization)",
     "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)",
     "03-Basics of OOP",
