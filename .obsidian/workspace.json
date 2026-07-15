@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Project Structure, Build, Modules/DotNet Proj vs Java Proj.md",
-                "mode": "source",
+                "file": "07-Generics/7.11. Capstone- дженерики Java как одно дерево.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DotNet Proj vs Java Proj"
+              "title": "7.11. Capstone- дженерики Java как одно дерево"
             }
           }
         ]
@@ -185,9 +185,28 @@
   },
   "active": "891ce8a9e80477f3",
   "lastOpenFiles": [
+    "Java.md",
+    "09-Lambdas and Functional Interfaces",
+    "07-Generics/7.11. Capstone- дженерики Java как одно дерево.md",
+    "07-Generics/7.9-Вывод типов и diamond.md",
+    "07-Generics/7.7-7.8-Raw types и unchecked warnings.md",
+    "07-Generics/7.5-7.6-Что erasure запрещает.md",
+    "07-Generics/7.4-Type erasure- куда исчезает T.md",
+    "07-Generics/7.2-Границы типа-параметра и инвариантность.md",
+    "07-Generics/7.1+7.10-Дженерики- объявление и использование.md",
+    "java-spring-roadmap.md",
+    "06-Exceptions/6.10–6.11. InterruptedException и антипаттерны обработки.md",
+    "06-Exceptions/6.9. Stack trace- как и когда формируется.md",
+    "06-Exceptions/6.6–6.8-Цепочка причин, дизайн своего исключения и wrap-and-rethrow.md",
+    "06-Exceptions/6.3–6.4. try - catch - finally + детали finally.md",
+    "06-Exceptions/6.1–6.2. Иерархия Throwable + checked vs unchecked.md",
+    "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
+    "05-Enums/5.6-EnumSet и EnumMap- ordinal как адрес.md",
+    "05-Enums/5.1-5.3+5.8-Enum как полноценный класс.md",
+    "05-Enums/5.4-5.5-Enum как носитель поведения.md",
+    "08-Project Structure, Build, Modules/DotNet Proj vs Java Proj.md",
     "Pasted image 20260709182741.png",
     "08-Project Structure, Build, Modules/8.8-JPMS- модуль, сильная инкапсуляция, opens.md",
-    "08-Project Structure, Build, Modules/DotNet Proj vs Java Proj.md",
     "Pasted image 20260709182007.png",
     "Pasted image 20260709181958.png",
     "Pasted image 20260709181942.png",
@@ -203,33 +222,14 @@
     "08-Project Structure, Build, Modules/8.1.-8.2-Maven- менеджер проекта и зависимостей.md",
     "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
     "Pasted image 20260709164329.png",
-    "Pasted image 20260709164234.png",
-    "Java.md",
     "08-Project Structure, Build, Modules",
-    "07-Generics/Comparable vs Comparator.md",
-    "07-Generics/7.11. Capstone- дженерики Java как одно дерево.md",
-    "07-Generics/7.7-7.8-Raw types и unchecked warnings.md",
-    "05-Enums/5.7-5.10-Singleton и сериализация- name как идентичность.md",
-    "07-Generics/7.2-Границы типа-параметра и инвариантность.md",
-    "07-Generics/7.5-7.6-Что erasure запрещает.md",
-    "07-Generics/7.4-Type erasure- куда исчезает T.md",
-    "05-Enums/5.6-EnumSet и EnumMap- ordinal как адрес.md",
-    "05-Enums/5.4-5.5-Enum как носитель поведения.md",
-    "05-Enums/5.1-5.3+5.8-Enum как полноценный класс.md",
-    "07-Generics/7.3-Wildcards и PECS.md",
-    "07-Generics/7.9-Вывод типов и diamond.md",
-    "07-Generics/7.1+7.10-Дженерики- объявление и использование.md",
     "07-Generics",
-    "06-Exceptions/6.1–6.2. Иерархия Throwable + checked vs unchecked.md",
-    "04-Inheritance, Interfaces, Polymorphism/Композиция - это просто поле (is-a - has-a).md",
-    "04-Inheritance, Interfaces, Polymorphism/SOLID.md",
     "06-Exceptions",
     "05-Enums",
     "04-Inheritance, Interfaces, Polymorphism",
     "23-Concurrency Basics (JMM, threads, synchronization)",
     "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)",
     "03-Basics of OOP",
-    "02-IntelliJ IDEA + Tooling",
-    "01-Java Fundamentals"
+    "02-IntelliJ IDEA + Tooling"
   ]
 }
