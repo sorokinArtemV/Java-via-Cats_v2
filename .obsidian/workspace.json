@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc7308375481af4c",
+            "id": "2c332983b43014be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
-                "mode": "preview",
+                "file": "11-JVM Under the Hood/11.5. Утечки памяти, heap dumps и профилирование в проде.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "11.5. Утечки памяти, heap dumps и профилирование в проде"
             }
           },
           {
-            "id": "152dfb0543f0f7a0",
+            "id": "02115b68239e0ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Lambdas and Functional Interfaces/9.3. Базовые встроенные функциональные интерфейсы.md",
-                "mode": "preview",
+                "file": "11-JVM Under the Hood/Map.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.3. Базовые встроенные функциональные интерфейсы"
+              "title": "Map"
             }
           }
         ],
@@ -198,52 +198,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "1786bb2f4f91ec94",
+  "active": "02115b68239e0ebf",
   "lastOpenFiles": [
+    "11-JVM Under the Hood/11.. JIT-компиляция- от интерпретатора до спекулятивных оптимизаций.md",
+    "11-JVM Under the Hood/Map.md",
+    "Java.md",
+    "11-JVM Under the Hood/11.5. Утечки памяти, heap dumps и профилирование в проде.md",
+    "Pasted image 20260716164958.png",
+    "Pasted image 20260716164912.png",
+    "11-JVM Under the Hood/11.3. Garbage Collection- алгоритмы, safepoints и выбор коллектора.md",
+    "Pasted image 20260716164835.png",
+    "Pasted image 20260716164825.png",
+    "11-JVM Under the Hood/11.2-структура памяти JVM.md",
+    "Pasted image 20260716164709.png",
+    "Pasted image 20260716164621.png",
+    "11-JVM Under the Hood/11.1-Что такое JVM и как загружаются классы.md",
+    "Pasted image 20260716164536.png",
+    "11-JVM Under the Hood",
+    "10-Streams API/10.8-10.10-Parallel streams и best practices.md",
+    "Pasted image 20260716151705.png",
+    "10-Streams API/10.7-10.9-Primitive streams и Optional.md",
+    "10-Streams API/10.6-Collectors.md",
+    "10-Streams API/10.4-10.5-Terminal operations и ленивость.md",
+    "Pasted image 20260716151400.png",
+    "10-Streams API/10.3-Intermediate operations + takeWhile-dropWhile.md",
+    "Pasted image 20260716151252.png",
+    "10-Streams API/10.1 + 10.2-Модель стрима и создание.md",
+    "10-Streams API",
+    "09-Lambdas and Functional Interfaces/Comparable vs Comparator.md",
+    "09-Lambdas and Functional Interfaces/9.9. Когда лямбда, а когда обычный класс.md",
+    "09-Lambdas and Functional Interfaces/9.8. Как работает лямбда внутри (invokedynamic, LambdaMetafactory).md",
+    "09-Lambdas and Functional Interfaces/9.7. Composition (andThen, compose, and or negate).md",
+    "09-Lambdas and Functional Interfaces/9.6. Лямбды и checked exceptions.md",
+    "09-Lambdas and Functional Interfaces/9.5. Захват переменных (effectively final, разница с замыканиями C).md",
+    "09-Lambdas and Functional Interfaces/9.4. Method references (Class--method, instance--method, Class--new).md",
     "09-Lambdas and Functional Interfaces/9.3. Базовые встроенные функциональные интерфейсы.md",
     "09-Lambdas and Functional Interfaces/9.2. Синтаксис лямбды (полная форма, сокращения, type inference).md",
     "09-Lambdas and Functional Interfaces/9.1. Functional interfaces (SAM, @FunctionalInterface).md",
-    "09-Lambdas and Functional Interfaces/9.9. Когда лямбда, а когда обычный класс.md",
-    "Pasted image 20260715121844.png",
-    "09-Lambdas and Functional Interfaces/9.8. Как работает лямбда внутри (invokedynamic, LambdaMetafactory).md",
-    "Pasted image 20260715121812.png",
-    "09-Lambdas and Functional Interfaces/9.7. Composition (andThen, compose, and or negate).md",
-    "Pasted image 20260715121658.png",
-    "09-Lambdas and Functional Interfaces/9.6. Лямбды и checked exceptions.md",
-    "Pasted image 20260715121604.png",
-    "09-Lambdas and Functional Interfaces/9.5. Захват переменных (effectively final, разница с замыканиями C).md",
-    "Pasted image 20260715121514.png",
-    "Pasted image 20260715121502.png",
-    "09-Lambdas and Functional Interfaces/9.4. Method references (Class--method, instance--method, Class--new).md",
-    "Pasted image 20260715121412.png",
-    "Pasted image 20260715121353.png",
-    "Pasted image 20260715121150.png",
-    "Pasted image 20260715121056.png",
     "09-Lambdas and Functional Interfaces/Untitled.md",
-    "09-Lambdas and Functional Interfaces/Comparable vs Comparator.md",
-    "Java.md",
     "9.1.-Функциональные интерфейсы, SAM, @FunctionalInterface.md",
     "09-Lambdas and Functional Interfaces",
     "08-Project Structure, Build, Modules/DotNet Proj vs Java Proj.md",
-    "08-Project Structure, Build, Modules/8.8-JPMS- модуль, сильная инкапсуляция, opens.md",
-    "08-Project Structure, Build, Modules/8.7. Multi-module проекты и BOM.md",
-    "04-Inheritance, Interfaces, Polymorphism/Принципы ООП.md",
-    "08-Project Structure, Build, Modules/8.6. Транзитивные зависимости и разрешение конфликтов версий.md",
-    "08-Project Structure, Build, Modules/8.5. Gradle на контрасте.md",
-    "08-Project Structure, Build, Modules/8.3-8.4-Maven как оркестратор сборки- lifecycle, плагины, wrapper.md",
-    "08-Project Structure, Build, Modules/8.1.-8.2-Maven- менеджер проекта и зависимостей.md",
-    "07-Generics/7.5-7.6-Что erasure запрещает.md",
-    "07-Generics/7.7-7.8-Raw types и unchecked warnings.md",
-    "java-spring-roadmap.md",
-    "07-Generics/7.4-Type erasure- куда исчезает T.md",
     "08-Project Structure, Build, Modules",
     "07-Generics",
     "06-Exceptions",
     "05-Enums",
     "04-Inheritance, Interfaces, Polymorphism",
     "23-Concurrency Basics (JMM, threads, synchronization)",
-    "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)",
-    "03-Basics of OOP",
-    "02-IntelliJ IDEA + Tooling"
+    "24-Concurrent API (Executors, CompletableFuture, virtual threads, atomic)"
   ]
 }
