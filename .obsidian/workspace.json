@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-JVM Under the Hood/11.5. Утечки памяти, heap dumps и профилирование в проде.md",
+                "file": "11-JVM Under the Hood/11-Простым языком все уроки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.5. Утечки памяти, heap dumps и профилирование в проде"
-            }
-          },
-          {
-            "id": "02115b68239e0ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11-JVM Under the Hood/Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Map"
+              "title": "11-Простым языком все уроки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,32 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "02115b68239e0ebf",
+  "active": "2c332983b43014be",
   "lastOpenFiles": [
-    "11-JVM Under the Hood/11.. JIT-компиляция- от интерпретатора до спекулятивных оптимизаций.md",
-    "11-JVM Under the Hood/Map.md",
-    "Java.md",
+    "Pasted image 20260724082826.png",
+    "Pasted image 20260724082810.png",
     "11-JVM Under the Hood/11.5. Утечки памяти, heap dumps и профилирование в проде.md",
-    "Pasted image 20260716164958.png",
-    "Pasted image 20260716164912.png",
+    "11-JVM Under the Hood/11-Простым языком все уроки.md",
+    "Pasted image 20260724082347.png",
+    "Pasted image 20260724082335.png",
+    "Pasted image 20260724082322.png",
+    "Pasted image 20260724082156.png",
+    "Pasted image 20260724082143.png",
+    "Pasted image 20260724082015.png",
+    "Pasted image 20260724082001.png",
+    "11-JVM Under the Hood/11.0. JIT-компиляция- от интерпретатора до спекулятивных оптимизаций.md",
+    "Pasted image 20260724081645.png",
+    "Pasted image 20260724081629.png",
+    "Java.md",
+    "10-Streams API/10.3-Intermediate operations + takeWhile-dropWhile.md",
+    "10-Streams API/10.1 + 10.2-Модель стрима и создание.md",
+    "11-JVM Under the Hood/Map.md",
     "11-JVM Under the Hood/11.3. Garbage Collection- алгоритмы, safepoints и выбор коллектора.md",
-    "Pasted image 20260716164835.png",
-    "Pasted image 20260716164825.png",
     "11-JVM Under the Hood/11.2-структура памяти JVM.md",
-    "Pasted image 20260716164709.png",
-    "Pasted image 20260716164621.png",
     "11-JVM Under the Hood/11.1-Что такое JVM и как загружаются классы.md",
-    "Pasted image 20260716164536.png",
     "11-JVM Under the Hood",
     "10-Streams API/10.8-10.10-Parallel streams и best practices.md",
-    "Pasted image 20260716151705.png",
     "10-Streams API/10.7-10.9-Primitive streams и Optional.md",
     "10-Streams API/10.6-Collectors.md",
     "10-Streams API/10.4-10.5-Terminal operations и ленивость.md",
-    "Pasted image 20260716151400.png",
-    "10-Streams API/10.3-Intermediate operations + takeWhile-dropWhile.md",
-    "Pasted image 20260716151252.png",
-    "10-Streams API/10.1 + 10.2-Модель стрима и создание.md",
     "10-Streams API",
     "09-Lambdas and Functional Interfaces/Comparable vs Comparator.md",
     "09-Lambdas and Functional Interfaces/9.9. Когда лямбда, а когда обычный класс.md",
@@ -236,9 +223,7 @@
     "09-Lambdas and Functional Interfaces/9.2. Синтаксис лямбды (полная форма, сокращения, type inference).md",
     "09-Lambdas and Functional Interfaces/9.1. Functional interfaces (SAM, @FunctionalInterface).md",
     "09-Lambdas and Functional Interfaces/Untitled.md",
-    "9.1.-Функциональные интерфейсы, SAM, @FunctionalInterface.md",
     "09-Lambdas and Functional Interfaces",
-    "08-Project Structure, Build, Modules/DotNet Proj vs Java Proj.md",
     "08-Project Structure, Build, Modules",
     "07-Generics",
     "06-Exceptions",
